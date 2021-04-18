@@ -20,6 +20,11 @@ npm run build
 npm run test:e2e
 ```
 
+### Run your components unit tests
+```
+npm run test:components
+```
+
 ### Lints and fixes files
 ```
 npm run lint
